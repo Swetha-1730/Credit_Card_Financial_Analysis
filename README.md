@@ -1,4 +1,4 @@
-# **Credit Card Financial Analysis PowerBI Dashboard**
+# **Credit Card Financial Analysis**
 
 ## **Project Overview**
 This project focuses on building a comprehensive **Credit Card Financial Analysis Dashboard** using Power BI. The dashboard offers real-time insights into key performance metrics and trends, helping stakeholders effectively monitor and analyze credit card operations. The objective is to visualize revenue, transactions, customer behaviour, and other critical financial metrics to enable data-driven decisions in credit card management.
